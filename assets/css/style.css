@@ -148,6 +148,20 @@ h6 {
 /**
 * Desktop Navigation 
 */
+.d-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.margin {
+  margin-right: 10px;
+}
+
 .nav-menu {
   padding: 0;
   display: block;
