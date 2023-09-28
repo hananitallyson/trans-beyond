@@ -116,6 +116,24 @@ h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+.logo {
+  width: 350px;
+}
+
+.button {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 10px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #0563bb;
+  color: #0563bb;
+}
+
 #header {
   position: fixed;
   top: 0;
